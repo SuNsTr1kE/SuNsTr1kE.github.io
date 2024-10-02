@@ -8,7 +8,7 @@ body {
 }
 
 .top-bg-section{
-    background-image: url(/coffee\ 1.png);
+    background-image: url(/img/coffee\ 1.png);
     background-position: left;
     overflow: hidden;
     height: 520px;
@@ -63,7 +63,7 @@ header {
 
 .about {
     font-family: sans-serif;
-    background-image: url(/cafe\ 1.png);
+    background-image: url(/img/cafe\ 1.png);
     background-position: left;
     overflow: hidden;
     height: 600px;
